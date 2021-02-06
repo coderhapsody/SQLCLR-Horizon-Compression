@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Compression", "Compression.sqlproj", "{A70E516E-9349-4219-9CCD-4871E33EC9DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A70E516E-9349-4219-9CCD-4871E33EC9DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A70E516E-9349-4219-9CCD-4871E33EC9DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A70E516E-9349-4219-9CCD-4871E33EC9DC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A70E516E-9349-4219-9CCD-4871E33EC9DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A70E516E-9349-4219-9CCD-4871E33EC9DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A70E516E-9349-4219-9CCD-4871E33EC9DC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21108172-DDEA-455A-8E08-EB3E92265FEF}
+	EndGlobalSection
+EndGlobal
